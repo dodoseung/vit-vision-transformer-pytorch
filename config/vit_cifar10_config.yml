@@ -3,7 +3,7 @@ data:
   seed: 777
   data_path: '~/.pytorch/CIFAR_data/'
   download: True
-  batch_size: 512
+  batch_size: 2048
   shuffle: True
   drop_last: True
   download: True
